@@ -1,0 +1,41 @@
+#cascade {
+  color: lightgreen;
+}
+#cascade {
+  color: rgb(212, 239, 5);
+}
+#cascade {
+  color: rgb(46, 241, 85);
+}
+#cascade {
+  color: rgb(238, 197, 144);
+}
+
+#cascade {
+  color: rgb(175, 144, 238);
+}
+
+#cascade {
+  color: rgb(211, 14, 14);
+}
+
+#cascade {
+  color: rgb(168, 202, 16);
+}
+#cascade {
+  color: rgb(193, 9, 184);
+}
+a{
+    display: flex;
+ justify-content: center;
+}
+
+/* inheritance properties */
+ul{
+  font-size: 25px;
+  font-family: cursive;
+
+}
+button{
+  font-family: inherit;
+}
